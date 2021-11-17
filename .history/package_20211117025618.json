@@ -1,0 +1,9 @@
+{
+  "name": "comp229-week2",
+  "version": "0.0.1",
+  "description": "demo project for comp229",
+  "main": "index.js",
+  "author": "ofovwe ewere",
+  "license": "MIT",
+  "scripts": "node index.js"
+}
